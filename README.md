@@ -149,6 +149,12 @@ The project generates:
 
 <img width="3180" height="1009" alt="5_selected_samples" src="https://github.com/user-attachments/assets/e34c0028-67d3-4718-a460-94033ec12464" />
 
+<img width="1579" height="878" alt="2_diffusion_loss" src="https://github.com/user-attachments/assets/a1e88549-2fb1-43ff-9520-20bc9a9b3bfc" />
+
+<img width="2581" height="878" alt="9_yolo_training_curves" src="https://github.com/user-attachments/assets/f38c1357-72f7-43f2-bd9a-4810a2d67224" />
+
+<img width="1979" height="1078" alt="8_metrics_comparison" src="https://github.com/user-attachments/assets/c228d8ad-c15a-4423-a374-0d9a99862ae9" />
+
 -
 
 
